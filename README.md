@@ -233,8 +233,8 @@ ACL 2020. [[Paper](https://arxiv.org/abs/2005.04118)][[Github](https://github.co
 ### Uncertainty Estimation
 
 **Conformal Prediction with Large Language Models for Multi-Choice Question Answering** \
-*Bhawesh Kumar, Charles Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, Andrew Beam *\
-arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18404)] [[Github](https://github.com/bhaweshiitk/ConformalLLM)]
+*Bhawesh Kumar, Charles Lu, Gauri Gupta, Anil Palepu, David Bellamy, Ramesh Raskar, Andrew Beam* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.18404)] [[Github](https://github.com/bhaweshiitk/ConformalLLM)] \
 08 July 2023.
 
 **Generating with Confidence: Uncertainty Quantification for Black-box Large Language Models** \
